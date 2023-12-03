@@ -1,1 +1,1 @@
-# Hao Chang personal blog.
+# Hao Chang's blog
